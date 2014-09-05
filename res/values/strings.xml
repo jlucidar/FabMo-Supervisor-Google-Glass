@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FabMo Supervisor Glass Edition</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network">network  :  </string>
+    <string name="current_file_label">current file :  </string>
+    <string name="stop">Stop</string>
+
+</resources>
